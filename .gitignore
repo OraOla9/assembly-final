@@ -1,0 +1,6 @@
+*.obj
+*.exe
+*.lst
+*.map
+.DS_Store
+Thumbs.db
